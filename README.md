@@ -31,6 +31,14 @@ Statistika for data analyst (2): Membahas terkait koerlasi dan regresi
 ## 23 Oktober 2024 (Statistika 3)
 Statistika for data analyst (3) : data time series dan metode mengolahnya
 
-## 29 Oktober 2024 (intro ML 1)
+## 28 Oktober 2024 (intro ML 1)
 Introduction terkait machine learning yang terdiri dari 3 jenis yaitu
 supervised learning, unsupervised learning, dan reinforcement learning
+
+## 29 Oktober 2024 (metode ml= K-mean dan Mean shift)
+Melakukan 2 metode clustering yaitu k-means dan metode means shift yang 
+digunakan untuk melakuakn suatu clustering sebuah dataset
+
+## 30 Oktober 2024 (Metode ml = Random forest)
+Melakukan 2 metode dalam klasifikasi di machine learning yaitu
+menggunakan random forest
