@@ -42,3 +42,9 @@ digunakan untuk melakuakn suatu clustering sebuah dataset
 ## 30 Oktober 2024 (Metode ml = Random forest)
 Melakukan 2 metode dalam klasifikasi di machine learning yaitu
 menggunakan random forest
+
+## 4 - 6 November 2024 ( Sentiment Analysis)
+Melakukan sentimen analysis terhadap 2 data yang dimana dilakukan
+cleansing dan preprocessing meliputi tokenization, lemmatization,
+dan lainnya, melakukan pembuatan model machine learning untuk 
+menentukan label sentiment analysis tersebut
