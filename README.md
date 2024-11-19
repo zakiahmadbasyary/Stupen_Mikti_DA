@@ -48,3 +48,12 @@ Melakukan sentimen analysis terhadap 2 data yang dimana dilakukan
 cleansing dan preprocessing meliputi tokenization, lemmatization,
 dan lainnya, melakukan pembuatan model machine learning untuk 
 menentukan label sentiment analysis tersebut
+
+## 11 -12 November 2024 (Customer Segmentation)
+Melakukan segmentasi terhadap customer dengan mengambil
+dari file marketing_campaign
+
+## 13 dan 18 November 2024 (Customer Behavior)
+Melakukan analisis prilaku customer dan dimodelkan dengan
+metode naive bayes untuk memprediksi melalui data yang ada
+dari prilaku customer
