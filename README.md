@@ -57,3 +57,7 @@ dari file marketing_campaign
 Melakukan analisis prilaku customer dan dimodelkan dengan
 metode naive bayes untuk memprediksi melalui data yang ada
 dari prilaku customer
+
+## 23 November 2024 ( Post test Sentiment Analysis Traveloka)
+melakukan sentiment analysis pada dataset Traveloka
+sebagai tugas Post Test
