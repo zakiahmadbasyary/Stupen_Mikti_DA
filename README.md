@@ -61,3 +61,7 @@ dari prilaku customer
 ## 23 November 2024 ( Post test Sentiment Analysis Traveloka)
 melakukan sentiment analysis pada dataset Traveloka
 sebagai tugas Post Test
+
+## 25 & 26 November 2024 ( analysis & Prediction cumsution electrician)
+Melakukan analisis terhadap data konsumsi listrik di beberapa tahun, dan 
+memprediksinya untuk tahun selanjutnya dengan metode XGB Regression
