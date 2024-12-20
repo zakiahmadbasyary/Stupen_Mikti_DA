@@ -1,0 +1,32 @@
+-> Kelompok 1 Kelas DA 1 Mikti :
+1. Zaki Ahmad Basyary       (Teknik Informatika)
+2. Syefara Raisa Ramadhan   (Teknik Informatika)
+3. Della Agustin            (Teknik Informatika)
+4. Siti Fatiha Diza Rahman  (Teknik Informatika)
+5. Mutiara Cintia Rainy     (Ilmu Komputer)
+
+
+-> Deskripsi Capstone :
+Dalam tim, kamu dan teman-teman akan bekerja sama membagi peran sesuai kebutuhan,
+seperti Data Analyst, Data Engineer, atau Data Scientist. Jika menghadapi kesulitan, jangan ragu
+untuk berdiskusi dengan mentor pendamping yang siap membantu. Tetap semangat dan nikmati
+proses belajarnya!
+Kamu memiliki waktu selama 3 sprint atau sekitar 3 minggu untuk mengembangkan sebuah
+produk digital yang sesuai dengan kebutuhan. Setiap sprint akan berlangsung selama 3 minggu,
+sehingga kamu perlu merencanakan dan melaksanakan tugas dengan efektif di setiap tahap.
+Tetap fokus pada prioritas utama, dan manfaatkan waktu yang ada untuk mencapai hasil
+terbaik.
+
+-> Teknis
+● Parameter:
+ ○ MelakukanCleaning Data & Filter
+ ○ MelakukanLabeling
+ ○ Mengimplementasikan library pendukung
+ ○ Mengimplementasikan Tokenizing
+ ○ Mengimplementasikan Visualisasi Data
+ ○ Mengimplementasikan Stopwords
+ ○ Mengimplementasikan Word Cloud
+ ○ Menghasilkan kesimpulan sentiment analyst
+● Peserta diarahkan membuat EDA semenarik sesuai tema dataset mungkin untuk OUTPUT AKHIR dan Akan Dipresentasikan.
+● Peserta tetap mengikuti kelas sesuai jadwal yang sudah ditetapkan.
+● Peserta akan melaporkan update terbaru di setiap hari senin ketika kelas dimulai.
